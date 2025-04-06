@@ -17,7 +17,7 @@
   /*** USER DEFINES:  ***/  
   //#define FAILURE_HANDLING
   //#define DEBUG
-  /**********************/
+  /*********************/
   
 #include <stdint.h>
 #include <stdio.h>
