@@ -8,9 +8,7 @@
   
  03/17/2013 : Charles-Henri Hallard (http://hallard.me)
               Modified to use with Arduipi board http://hallard.me/arduipi
-              Modified to use the great bcm2835 library for I/O and SPI
-              123
-							
+              Modified to use the great bcm2835 library for I/O and SPI			
  */
 
 #ifndef __RF24_CONFIG_H__
